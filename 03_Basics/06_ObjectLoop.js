@@ -70,3 +70,4 @@ UserInfo.forEach((item) => {  //* print the name of each object
 UserInfo.forEach((item) => { //*print the email of each object
      console.log(item.email)
 })
+
